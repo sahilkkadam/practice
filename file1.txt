@@ -1,4 +1,2 @@
-hi i am file 1
-this is git practice
-hiiii
-byee...
+hii
+this is file 1
